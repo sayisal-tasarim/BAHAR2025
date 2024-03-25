@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-10-14T13:36:17+00:00
+date: 2024-02-26T13:36:17+00:00
 title: Sıralı Mantık
 
 # optional
