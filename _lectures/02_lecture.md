@@ -1,14 +1,14 @@
 ---
 type: lecture
 date: 2024-02-19T14:00:10+4:30 
-title: Giriş
+title: Bileşimsel Mantık
 
 # optional
 # please use /static_files/notes directory to store notes
 thumbnail: /_images/l1.png
 
 # optional
-tldr: "Bu derste veri yapıları ve algoritmaları dersine giriş yapılacaktır."
+tldr: "Bu derste Bileşimsel Mantık konusu işlenecektir."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
