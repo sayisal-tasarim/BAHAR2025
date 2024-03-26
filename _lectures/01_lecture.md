@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: /static_files/presentations/11_Graf.pdf
+    - url: /static_files/presentations/01_Giris.pdf
       name: slaytlar
     
 
