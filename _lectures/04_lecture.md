@@ -16,18 +16,8 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vRJl9y3U42P2KJ0qSumMQET9e53pZuhkJNmEj-W-3UVKXNr-SnYJZMOuX-iChYgMxlV5yHcH6f0QmFi/pub?start=false&loop=false&delayms=3000
+    - url: /static_files/presentations/03_SiralilMantık.pdf  static_files/presentations/04_DonanimTanimlamaDilleri.pdf
       name: slaytlar
-    - url: #
-      name: ders kaydı
-    - url: /codes/binary_search.js
-      name: Binary search
-    - url: /codes/bubble_sort.js 
-      name: Bubble sort
-    - url: /codes/insertion_sort.js
-      name: Insertion sort
-    - url: /codes/selection_sort.js
-      name: Selection sort
       
 
   #  - url: /static_files/presentations/code.zip
