@@ -4,18 +4,14 @@ title: Materyaller
 permalink: /materyaller/
 ---
 
-{% include image.html url="/_images/veriypilarikitap.jpg" width=175 align="right" %}
+{% include image.html url="/_images/sayısaltasarimkitap.png " width=175 align="right" %}
 
 ## Kitap
 
-Veri Yapıları ve Algoritmalar
+Digital Desing and Computer Architecture
 
-Bilgisayar Mühendisliği ve Yazılım Mühendisliğinde
+David Money Harris and Sarah L. Harris
 
-Toros Rifat ÇÖLKESEN (Ph.D)
 
-## Ek Ders Materyalleri
-
-http://www.tutorialspoint.com/data_structures_algorithms/index.htm
 
 
