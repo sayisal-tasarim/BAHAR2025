@@ -16,10 +16,8 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vTgAMcqTJQLGn4GSAj6Ve-Pnn0ZvLk0uDapTXkc2QlMNIsu91WJkyY-USApufkJKmJCWm2cB6f_ww8z/pub?start=false&loop=false&delayms=60000
+    - url: /static_files/presentations/03_SiralilMantık.pdf
       name: slaytlar
-    - url: #
-      name: ders kaydı
 
   #  - url: /static_files/presentations/code.zip
   #    name: kodlar
