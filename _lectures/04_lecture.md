@@ -1,14 +1,14 @@
 ---
 type: lecture
-date: 2021-10-14T13:36:17+00:00
-title: Arama Sıralama Algoritmaları
+date: 2024-03-04T13:36:17+00:00
+title: Donanım Tanımlama Dilleri
 
 # optional
 # please use /static_files/notes directory to store notes
 thumbnail: /_images/l4.png
 
 # optional
-tldr: "Bu derste sıralama ve arama algoritmaları üzerinde durulacaktır."
+tldr: "Bu derste donanım tanımlama dillerine giriş yapılacaktır."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
