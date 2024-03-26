@@ -18,7 +18,7 @@ hide_from_announcments: false
 links:
     - url: /static_files/presentations/01_Giris.pdf
       name: slaytlar
-    
+  
 
   #  - url: /static_files/presentations/code.zip
   #    name: kodlar
