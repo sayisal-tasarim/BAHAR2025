@@ -5,7 +5,7 @@ title: Sıralı Mantık
 
 # optional
 # please use /static_files/notes directory to store notes
-#thumbnail: /_images/l3.png
+thumbnail: /_images/l3.png
 
 # optional
 tldr: "Bu derste Sıralı Mantık konuları üzerinde durulacaktır."
