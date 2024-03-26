@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: /static_files/presentations/03_SiralilMantık.pdf  static_files/presentations/04_DonanimTanimlamaDilleri.pdf
+    - url: /static_files/presentations/04_DonanimTanimlamaDilleri.pdf
       name: slaytlar
       
 
