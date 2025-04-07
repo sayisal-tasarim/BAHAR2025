@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-02-19T14:00:10+4:30 
-title: Bileşimsel Mantık
+title: Bileşimsel Mantık Deneme
 
 # optional
 # please use /static_files/notes directory to store notes
