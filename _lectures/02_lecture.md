@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-02-19T14:00:10+4:30 
-title: Bileşimsel Mantık Deneme
+title: Bileşimsel Mantık
 
 # optional
 # please use /static_files/notes directory to store notes
@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: /static_files/presentations/03_SiralilMantık.pdf
+    - url: /static_files/presentations/02_BirlesikMantik.pdf
       name: slaytlar
     
 
