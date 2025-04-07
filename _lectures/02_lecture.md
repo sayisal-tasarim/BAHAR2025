@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: /static_files/presentations/02_BileşimselMantık.pdf
+    - url: /static_files/presentations/02_Birleşik Mantık.pdf
       name: slaytlar
     
 
